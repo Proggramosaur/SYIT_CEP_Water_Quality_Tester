@@ -2,8 +2,8 @@
 #include <PubSubClient.h>
 
 // ================= WIFI =================
-const char* ssid = "realme P1 5G";
-const char* password = "Sasageyo2024";
+const char* ssid = "Wifi";
+const char* password = "Password";
 
 // ================= MQTT =================
 const char* mqtt_server = "broker.hivemq.com";
